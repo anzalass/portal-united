@@ -14,8 +14,9 @@ blog ini berisi semua hal tentang  manchester united, dibuat nya blog ini bertuj
 5. Memberi komentar dan saling membalas komentar di setiap artikel
 6. Menyimpan Artikel yang ingin dibaca nanti
 7. Melihat views artikel
-8. recomendasi artikel
-9. dan lain lain
+8. recomendasi artikel\
+9. searching
+10. dan lain lain
 
 ## Tech stack yang saya gunakan
 1. React.Js Vite
