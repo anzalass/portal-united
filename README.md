@@ -44,6 +44,6 @@ jadi kalian kalau ingin menggunakan ikuti langkah langkah dibawah ya..
 13. lakukan npm install 
 14. buat folder bernama config pada /<nama_folder>/backend/portal-united
 15. buat file .env
-16. isi .env sesuai dengan format
+16. isi .env sesuai dengan format yang ada .env.example
 17. jalankan npm start pada folder <nama_folder>/backend/portal-united
 18. jalankan npm run dev pada folder <nama_folder>/frontend/portal-united
