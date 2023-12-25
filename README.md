@@ -2,6 +2,8 @@
 
 Portal united adalah sebuah blog, yang dibuat sebagai bentuk kecintaan saya kepada sebuah klub di sebuah kota pelabuhan di inggris, yaitu Manchester United, 
 blog ini berisi semua hal tentang  manchester united, dibuat nya blog ini bertujuan untuk melatih kemampuan saya,
+
+
  
 ## Beberapa fitur yang ada di blog portal united 
 
@@ -24,6 +26,9 @@ blog ini berisi semua hal tentang  manchester united, dibuat nya blog ini bertuj
 6. dan lain lain
 
 ## Cara Mengclone Project
+
+disini terdapat 2 branch yaitu frontend dan backend
+jadi kalian kalau ingin menggunakan ikuti langkah langkah dibawah ya..
 
 1. Buat Folder berikan nama bebas
 2. didalam folder tersebut buat folder frontend dan backend
