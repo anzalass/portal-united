@@ -42,8 +42,8 @@ jadi kalian kalau ingin menggunakan ikuti langkah langkah dibawah ya..
 11. masukan perintah git clone -b backend https://github.com/anzalass/portal-united
 12. setelah itu masukan perintah cd portal-united
 13. lakukan npm install 
-14. buat folder bernama config pada /<nama_folder>/backend/portal-united
-15. buat file .env
+14. buat folder bernama config pada /<nama_folder>/backend/portal-united 
+15. buat file .env pada folder /<nama_folder>/backend/portal-united/config
 16. isi .env sesuai dengan format yang ada .env.example
 17. jalankan npm start pada folder <nama_folder>/backend/portal-united
 18. jalankan npm run dev pada folder <nama_folder>/frontend/portal-united
