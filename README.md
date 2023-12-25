@@ -25,4 +25,18 @@ blog ini berisi semua hal tentang  manchester united, dibuat nya blog ini bertuj
 
 ## Cara Mengclone Project
 
-lakukan 
+1. Buat Folder berikan nama bebas
+2. didalam folder tersebut buat folder frontend dan backend
+3. kemudian kalian masuk dahulu ke folder frontend
+4. buka apilikasi comand line kalian
+5. pastikan comand line tersebut sudah berada di  /<nama_folder>/frontend
+6. masukan perintah git clone -b frontend https://github.com/anzalass/portal-united
+7. setelah itu lakukan cd portal-united
+8. lakukan npm install
+10. kemudian pindahkan comand line kalian ke  /<nama_folder/backend
+11. masukan perintah git clone -b backend https://github.com/anzalass/portal-united
+12. setelah itu masukan perintah cd portal-united
+13. lakukan npm install
+14. isi .env sesuai dengan format
+15. jalankan npm start pada folder <nama_folder>/backend/portal-united
+16. jalankan npm run dev pada folder <nama_folder>/frontend/portal-united
