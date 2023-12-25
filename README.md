@@ -36,7 +36,9 @@ blog ini berisi semua hal tentang  manchester united, dibuat nya blog ini bertuj
 10. kemudian pindahkan comand line kalian ke  /<nama_folder/backend
 11. masukan perintah git clone -b backend https://github.com/anzalass/portal-united
 12. setelah itu masukan perintah cd portal-united
-13. lakukan npm install
-14. isi .env sesuai dengan format
-15. jalankan npm start pada folder <nama_folder>/backend/portal-united
-16. jalankan npm run dev pada folder <nama_folder>/frontend/portal-united
+13. lakukan npm install 
+14. buat folder bernama config pada /<nama_folder>/backend/portal-united
+15. buat file .env
+16. isi .env sesuai dengan format
+17. jalankan npm start pada folder <nama_folder>/backend/portal-united
+18. jalankan npm run dev pada folder <nama_folder>/frontend/portal-united
